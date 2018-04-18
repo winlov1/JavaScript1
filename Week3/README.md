@@ -2,7 +2,6 @@
 
 ```
 In week three we will discuss the following topics:
-• Git work flow
 • Advanced data types [Objects]
 • Conditions
 • Statements vs Expressions
