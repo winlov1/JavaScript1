@@ -33,7 +33,7 @@ _Deadline Thursday_
 
 > For all the following exercises create a new .js file. Try to find a proper name for each file or make a small comment about what it does inside for future reference. 
 
-1\. Write a `console.log` statement saying "Hello World!" for each language that you know. 
+#1\. Write a `console.log` statement saying "Hello World!" for each language that you know. 
 
 For example:
 ```
