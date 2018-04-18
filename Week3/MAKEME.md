@@ -2,7 +2,6 @@
 
 ```
 Topics discussed in class this week:
-• Git work flow
 • Advanced data types [Objects]
 • Conditions
 • Statements vs Expressions
@@ -29,7 +28,6 @@ Provide feedback to the homework of last week to one of your fellow students. Yo
     - [Naming conventions](./../../../../fundamentals/blob/master/fundamentals/naming_conventions.md)
 
 - Go through the topics of this week:
-    - Git work flow
     - [Advanced data types (Objects)](./../../../../fundamentals/blob/master/fundamentals/objects.md)
     - [Conditional execution](./../../../../fundamentals/blob/master/fundamentals/conditional_execution.md)
     - [Statements vs Expressions](./../../../../fundamentals/blob/master/fundamentals/statements_expressions.md)
