@@ -32,7 +32,7 @@ On freeCodeCamp.com please do the [Basic JavaScript](https://www.freecodecamp.co
 ## Step 4: JavaScript
 
 > For all the following exercises create a new .js file. Try to find a proper name for each file or make a small comment about what it does inside for future reference. 
----
+- - -
 1\. Write a `console.log` statement saying "Hello World!" for each language that you know. 
 
 For example:
@@ -41,7 +41,7 @@ Halo, dunia! // Indonesian
 Ciao, mondo! // Italian
 Hola, mundo! // Spanish
 ```
----
+- - -
 2\. Consider the following code:
 
 ```
@@ -49,7 +49,7 @@ console.log('I'm awesome');
 ```
 
 Copy the code in your `.js` file and run it. You will see that you will get a SyntaxError. Find a solution for this error. Hint: read the error message carefully, it also gives an indication of where the problem is.
----
+- - -
 3\. Declare a variable `x` and initialize it with an integer, using these exact steps:    
 3\.1 First, _declare_ your variable `x` (do not initialize it yet).  
 3\.2 Add a console.log statement that explains that explains in words what _you think_ the value of `x` is, like in this example:
@@ -71,7 +71,7 @@ Copy the code in your `.js` file and run it. You will see that you will get a Sy
   console.log('the value of x will be: whateverYouThinkItWillLog');
   // TODO -> log value of x again
 ```
----
+- - -
 4\. Declare a variable `y` and assign a string to it.  
 4\.1 Write a console.log statement in which you explain in words what _you think_ the value of the string is.  
 4\.2 Now console.log the variable `y`.  
@@ -86,7 +86,7 @@ Copy the code in your `.js` file and run it. You will see that you will get a Sy
   console.log('the value of my string will be: whateverYouThinkItWillLog');
   // TODO -> log the actual value of the string to the console
 ```
----
+- - -
 5\. How do you round the number 7.25, to the nearest integer (i.e., whole number)?  
 5\.1 Declare a variable `z` and assign the number 7.25 to it.  
 5\.2 Console.log `z`.  
@@ -94,7 +94,7 @@ Copy the code in your `.js` file and run it. You will see that you will get a Sy
 5\.4 Console.log `a`.  
 5\.5 So now we have `z` and `a` find a way to compare the two values and store the highest of the two in a new variable.  
 5\.6 Console.log the highest value.  
----
+- - -
 6\. *Arrays!*  
 6\.1 Declare an empty array. Make sure that the name you choose indicates 'plurality', because an array is capable of containing more than one element. (See [Naming conventions](../fundamentals/naming_conventions.md).)   
 6\.2 Write a console.log statement that explains in words what you think the value of the array is.  
@@ -103,13 +103,13 @@ Copy the code in your `.js` file and run it. You will see that you will get a Sy
 6\.5 Log your array.  
 6\.6 Add a statement that adds Daan's favorite animal ('baby pig') to the *existing array*.  
 6\.7 Log your new array!  
----
+- - -
 7\. *More strings*  
 7\.1 Let's consider the following string: `let myString = "this is a test"`.  
 7\.2 Add the string to your file and console.log it.  
 7\.3 Find a way to get the length of `myString`.  
 7\.4 Console.log the length of `myString`.  
----
+- - -
 8\. Write a program that checks the types of two variables and prints out `SAME TYPE` if they are the same type.  
 8\.1 First declare at least four variables and assign them different data types.  
 8\.2 For each variable write a `console.log` statement that logs the value  
@@ -136,7 +136,7 @@ if (...) {
 }
 // TODO -> add a way of giving feedback if your variables don't have the same type
 ```
----
+- - -
 9\. If `x` equals 7, and the only other statement is `x = x % 3`, what would be the new value of `x`?  
 9\.1 Add at least 3 `console.log` statements in which you show that you understand what `%` does.  
 
